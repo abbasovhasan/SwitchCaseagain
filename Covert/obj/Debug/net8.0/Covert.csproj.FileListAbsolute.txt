@@ -1,0 +1,14 @@
+C:\Users\abbas\source\repos\CodeAcademy\Covert\bin\Debug\net8.0\Covert.exe
+C:\Users\abbas\source\repos\CodeAcademy\Covert\bin\Debug\net8.0\Covert.deps.json
+C:\Users\abbas\source\repos\CodeAcademy\Covert\bin\Debug\net8.0\Covert.runtimeconfig.json
+C:\Users\abbas\source\repos\CodeAcademy\Covert\bin\Debug\net8.0\Covert.dll
+C:\Users\abbas\source\repos\CodeAcademy\Covert\bin\Debug\net8.0\Covert.pdb
+C:\Users\abbas\source\repos\CodeAcademy\Covert\obj\Debug\net8.0\Covert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbas\source\repos\CodeAcademy\Covert\obj\Debug\net8.0\Covert.AssemblyInfoInputs.cache
+C:\Users\abbas\source\repos\CodeAcademy\Covert\obj\Debug\net8.0\Covert.AssemblyInfo.cs
+C:\Users\abbas\source\repos\CodeAcademy\Covert\obj\Debug\net8.0\Covert.csproj.CoreCompileInputs.cache
+C:\Users\abbas\source\repos\CodeAcademy\Covert\obj\Debug\net8.0\Covert.dll
+C:\Users\abbas\source\repos\CodeAcademy\Covert\obj\Debug\net8.0\refint\Covert.dll
+C:\Users\abbas\source\repos\CodeAcademy\Covert\obj\Debug\net8.0\Covert.pdb
+C:\Users\abbas\source\repos\CodeAcademy\Covert\obj\Debug\net8.0\Covert.genruntimeconfig.cache
+C:\Users\abbas\source\repos\CodeAcademy\Covert\obj\Debug\net8.0\ref\Covert.dll
